@@ -13,6 +13,7 @@ App Description:
   - Download the zip file
   - Unzip the file locally
   - Open the command line and navigate to the extracted folder
+  - Run npm init to download the node_modules
   - Run npm i to install the required dependecies
   - Run node app.js file in the command line
   - Test the App
